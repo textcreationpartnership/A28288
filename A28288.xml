@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The love of God manifested in giving our Saviour for the redemption of mankind a sermon preach'd before the Lord Mayor and Court of Aldermen on Nov. the 29th, 1696, being the first Sunday in Advent / by L. Blackburne ...</title>
+            <author>Blackburne, Lancelot, 1658-1743.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28288</idno>
+            <idno type="STC">Wing B3067</idno>
+            <idno type="STC">ESTC R11620</idno>
+            <idno type="EEBO-CITATION">12645990</idno>
+            <idno type="OCLC">ocm 12645990</idno>
+            <idno type="VID">65132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 344:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The love of God manifested in giving our Saviour for the redemption of mankind a sermon preach'd before the Lord Mayor and Court of Aldermen on Nov. the 29th, 1696, being the first Sunday in Advent / by L. Blackburne ...</title>
+                  <author>Blackburne, Lancelot, 1658-1743.</author>
+               </titleStmt>
+               <extent>[3], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Thomas Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [3].</note>
+                  <note>Advertisement: p. [3].</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  John III, 16 --  Sermons.</term>
+               <term>Advent sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:65132:1"/>
+            <head>Clarke Mayor.</head>
+            <head type="sub">Martis <hi>primo die</hi> Decembr. 1696. <hi>Anno<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> R. R.</hi> Will. <hi>Tertii</hi> Angliae, <hi>&amp;c. Octavo.</hi>
+            </head>
+            <p>THis Court doth deſire Mr. <hi>Black<g ref="char:EOLhyphen"/>burn</hi> to Print his Sermon Preached on <hi>Sunday</hi> laſt, before the Right Honour<g ref="char:EOLhyphen"/>able the Lord Mayor, and the Aldermen of this City, at the <hi>Guild-Hall</hi> Chappel.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:65132:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Love of God manifeſted in giving our Saviour for the Redemption of Mankind.</hi>
+            </p>
+            <p>A SERMON Preach'd before the Lord Mayor AND Court of ALDERMEN, ON <hi>Nov.</hi> the <hi>29th</hi> 1696. Being the Firſt <hi>Sunday</hi> in <hi>Advent.</hi>
+            </p>
+            <p>By <hi>L. BLACKB<g ref="char:V">Ʋ</g>RNE,</hi> Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren</hi> for <hi>Thomas Bennet,</hi> at the <hi>Half-Moon</hi> in St. <hi>Paul</hi>'s Church-Yard, 1697.</p>
+         </div>
+         <div type="by_the_same_author">
+            <pb facs="tcp:65132:2"/>
+            <head>Publiſhed by the ſame Author.</head>
+            <p>
+               <hi>THE <g ref="char:V">Ʋ</g>nreaſonableneſs of Anger:</hi> A Sermon Preached before the Late Queen at <hi>White-Hall, July</hi> the <hi>29th</hi> 1694.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 3. line 19. for <hi>to</hi> read <hi>ſo,</hi> p. 4. l. 18. for <hi>not</hi> r. <hi>to <g ref="char:V">Ʋ</g>s,</hi> for <hi>Difference</hi> r. <hi>different,</hi> p. 16. l. 20. for <hi>and</hi> r. <hi>an,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65132:2"/>
+            <head>A SERMON Preach'd, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>John III. 16.</hi>
+                  </bibl>
+                  <p>For God ſo lov'd the World, that He gave His Only Begotten Son, that whoſoever believeth in Him ſhou'd not periſh, but have Everlaſting Life.</p>
+               </q>
+            </epigraph>
+            <p>THat a Being infinitely Perfect ſhou'd delight in the work of its own hands; that Goodneſs it ſelf ſhou'd have Incli<g ref="char:EOLhyphen"/>nations of Tenderneſs and Love for a Creature made after its own Image, Juſt and Upright; is but what that Creature might reaſonably ex<g ref="char:EOLhyphen"/>pect from the conſideration of God's Nature, and of its own. But that a reaſonable Crea<g ref="char:EOLhyphen"/>ture, fall'n willfully from that Uprightneſs,
+<pb n="2" facs="tcp:65132:3" rendition="simple:additions"/>given over to Sin, and polluted with Wicked<g ref="char:EOLhyphen"/>neſs, ſhou'd with all thoſe ſpots and ſtains about it be the Object of God's Love, to ſuch a degree, as that he ſhou'd give His Only Son a ranſom for it; the Son of his Love, for a Miſerable Wretch, the greateſt contradiction to his Infinite Purity, and the hopeleſly devo<g ref="char:EOLhyphen"/>ted Sacrifice to his Everlaſting Vengence. This were enough to ſtartle a forward Faith, were it not that he has ſaid it who cannot fail, he has ſpoken it who cannot be deceiv'd, who is himſelf both the <hi>Gift</hi> and the <hi>Aſſurance of it:</hi> who to the manifold expreſſions of his Good<g ref="char:EOLhyphen"/>neſs to us has added, That of even this oppor<g ref="char:EOLhyphen"/>tunity of reviving the dying Images of our ſhatter'd, and on every ſide aſſaulted Faith; and inflaming our Hearts with a warm and pe<g ref="char:EOLhyphen"/>netrating ſenſe of his aſtoniſhing and unboun<g ref="char:EOLhyphen"/>ded Love, with a ſenſe which is not to be had but by the means of <hi>Faith,</hi> the only proper In<g ref="char:EOLhyphen"/>ſtrument for exciting it: as it is the only con<g ref="char:EOLhyphen"/>dition of attaining that <hi>Everlaſting Life,</hi> which is thus offer'd to our acceptance. <hi>For God ſo lov'd the World, that he gave his only begotten Son, that whoſoever believeth in him ſhou'd not periſh, but have Everlaſting Life.</hi>
+            </p>
+            <p>There are two things eminently remarkable in theſe words, The <hi>Gift</hi> God gave to the
+<pb n="3" facs="tcp:65132:3" rendition="simple:additions"/>World, <hi>His Only Begotten Son;</hi> and the <hi>End</hi> for which he gave it, that <hi>whoſoever believeth in Him ſhou'd not periſh, but have Everlaſting Life:</hi> And if we duly reflect upon the <hi>Principle</hi> from which that Gift proceeded, and the <hi>Means</hi> appointed for applying it to the End; there will ariſe from thence ſome noble and uſeful conſiderations towards the right acknowledge<g ref="char:EOLhyphen"/>ment of the One, and the full attainment of the Other.</p>
+            <p>In the firſt place it will concern us to in<g ref="char:EOLhyphen"/>quire how Our Saviour is the <hi>Gift of God?</hi> For The <hi>Three</hi> Divine Perſons, in the adora<g ref="char:EOLhyphen"/>ble Trinity, being <hi>Coeternal</hi> and <hi>Coequal,</hi> it may ſeem inconſiſtent with that <hi>Equality,</hi> that <hi>One</hi> of 'em ſhou'd have <hi>Power</hi> or <hi>Authority</hi> over the <hi>O<g ref="char:EOLhyphen"/>ther.</hi> For equal Powers will be in a capacity of making equal Reſiſtance, and Powers Eternally to will be for that Reaſon ever above all Force from each other. Yet there is nothing more common in Holy Scripture than the Expreſ<g ref="char:EOLhyphen"/>ſions of this <hi>ſubordination,</hi> and <hi>Dependance,</hi> this <hi>Miſſion,</hi> and <hi>Gift</hi> of the <hi>Son</hi> by the <hi>Father. The ſpirit of the Lord is upon me,</hi> ſays he, <hi>Iſaiah</hi> 61.1. (for he applies that Text to himſelf in the <hi>4th</hi> of St. <hi>Luke</hi> ver. the <hi>18th</hi>) <hi>The ſpirit of the Lord is upon me, becauſe the Lord hath anointed me to preach good tidings to the Meek, he hath</hi> ſent <hi>me
+<pb n="4" facs="tcp:65132:4" rendition="simple:additions"/>to bind up the broken-hearted, to proclaim liberty to the Captives, and the opening of the Priſon to them that are bound.</hi> So the Author of the Epiſtle to the <hi>Hebrews</hi> ſays (<hi>Heb.</hi> 5.5.) That <hi>Chriſt glorify'd not himſelf to be made an High-Prieſt: but he that ſaid unto Him, Thou art My Son, this day have I begotten Thee.</hi>
+            </p>
+            <p>On this account it is neceſſary for us to di<g ref="char:EOLhyphen"/>ſtinguiſh between their <hi>Natural</hi> and their <hi>Oeco<g ref="char:EOLhyphen"/>nomical State;</hi> for there is a very great diffe<g ref="char:EOLhyphen"/>rence between the one and the other, and a <hi>Subordination</hi> and <hi>Inequality</hi> induc'd by the <hi>vo<g ref="char:EOLhyphen"/>luntary acceptance of Offices</hi> Miniſterial to the great work of Our Redemption, which is not found<g ref="char:EOLhyphen"/>ed in the <hi>Divine Nature,</hi> conſider'd <hi>ſimply</hi> and <hi>abſo<g ref="char:EOLhyphen"/>lutely</hi> in it ſelf; but in the <hi>Relation</hi> only which their <hi>Perſonal Properties</hi> bear to each other, and not with reſpect to the differen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and unequal <hi>Charges</hi> they have graciouſly been pleas'd to <hi>take upon 'em,</hi> for the compaſſing that End.</p>
+            <p>Conſider'd in their <hi>Natural State,</hi> they are all <hi>equally God,</hi> Infinite in Being, Power and Per<g ref="char:EOLhyphen"/>fections; and being equal in Eſſential Power and Dominion, are <hi>as ſuch</hi> by conſequence, not <hi>ſubject</hi> or <hi>ſubordinate</hi> to one another: from whence St. <hi>Paul</hi> ſays of Our Bleſſed Saviour; that, <hi>being in the form of God, he thought it no rob<g ref="char:EOLhyphen"/>bery to be equal with God.</hi> But in the <hi>Diſpen<g ref="char:EOLhyphen"/>ſation</hi>
+               <pb n="5" facs="tcp:65132:4"/>of our Redemption they have <hi>voluntarily</hi> taken upon 'em the Adminſtration of <hi>
+                  <g ref="char:V">Ʋ</g>nequal Offices.</hi>
+            </p>
+            <p>The <hi>Father</hi> being the Fountain of the God<g ref="char:EOLhyphen"/>head, and in Relation to the Eternal Generati<g ref="char:EOLhyphen"/>on of the Son, Firſt in <hi>Order of Nature;</hi> took upon him the Office of the <hi>ſupreme Governour</hi> of the World. The Protector of his Laws, and the firſt Director in the work of our Salvation. In his Infinite Wiſdom and Mercy he laid the Plan of our Redemption, and deſign'd that in<g ref="char:EOLhyphen"/>eſtimable Victim for us, which alone cou'd ſatisfy his offended Juſtice. And the <hi>Office of the Fa<g ref="char:EOLhyphen"/>ther</hi> being thus, by the very Nature of its Fun<g ref="char:EOLhyphen"/>ctions, more excellent in the Pre-eminence of Power and Dignity, it was fit that <hi>the Son,</hi> who was to be the <hi>Mediator</hi> between <hi>God</hi> and <hi>Man,</hi> ſhou'd receive his <hi>Commiſſion</hi> for that Office from the <hi>Father,</hi> upon whoſe <hi>good pleaſure</hi> only, the receiving ſatisfaction to infinite Juſtice from any other hands, than thoſe of the offenders them<g ref="char:EOLhyphen"/>ſelves, intirely did depend.</p>
+            <p>So that in reſpect of that <hi>Deſignation</hi> and that <hi>Commiſſion</hi> from the Father, our Saviour may be ſaid to be his <hi>Gift,</hi> though fully equal to him in all the inherent and eſſential perfections of the Godhead: He may truly on that ſcore be ſaid to be <hi>ſent</hi> by him, though he <hi>voluntarily</hi>
+               <pb n="6" facs="tcp:65132:5"/>enter'd into that Covenant, and accepted of that Office; though <hi>He gave Himſelf a Ranſom for all.</hi>
+            </p>
+            <p>Now a <hi>Gift</hi> in its own Nature muſt be <hi>free,</hi> independent on any Law that may oblige to it, or any Merit that may deſerve it: and ſuch in all reſpects was this of our Mighty Deli<g ref="char:EOLhyphen"/>verer.</p>
+            <p>In vain do we ſearch for any thing in <hi>God's Nature,</hi> or <hi>our own,</hi> for any Laws or Principles of <hi>Nature</hi> or <hi>Reaſon,</hi> that might oblige him to it on <hi>his part,</hi> or incline him on <hi>ours.</hi>
+            </p>
+            <p>There was not any tye upon him to this Gift, in reſpect of his <hi>own Nature;</hi> from any <hi>Natural,</hi> from any <hi>Moral,</hi> or <hi>Political Neceſſity.</hi> For of all the Operations of the Bleſſed Trinity, the Eternal <hi>Generation</hi> of the Son, and the Eter<g ref="char:EOLhyphen"/>nal <hi>Proceſſion</hi> of the Holy Ghoſt alone, have in 'em any proper and <hi>natural neceſſity:</hi> All other extra<g ref="char:EOLhyphen"/>neous things are the Works of God's <hi>Free Pleaſure,</hi> which he orders according to the <hi>Counſel of his Will;</hi> that is, ſo as it was free for him from all Eternity not ſo to order 'em as he does. There can be no <hi>natural neceſſity</hi> in God to pro<g ref="char:EOLhyphen"/>duce or order any thing <hi>without him;</hi> for then that Production, and that Order, muſt neceſ<g ref="char:EOLhyphen"/>ſarily have been from all Eternity, muſt have been as Eternal as himſelf.</p>
+            <pb n="7" facs="tcp:65132:5"/>
+            <p>There is a <hi>Moral Neceſſity</hi> indeed in God, ac<g ref="char:EOLhyphen"/>cording to which his External Actions, though <hi>free</hi> in themſelves, are determin'd, as to their Qualities, by the ſtanding and unchangeable Rule of his <hi>Infinite Perfections.</hi> But he was not a Debtor to Man on account of any of theſe, to find a ranſom for <hi>his Sins,</hi> who had made himſelf a contradiction to all thoſe Perfections, and the natural Object of God's hatred and wrath. His Power and Goodneſs he had ſhewn in Creating him; it was now time to vindicate his Juſtice and Truth in awarding his Puniſh<g ref="char:EOLhyphen"/>ment, and verifying his Sentence. He had poſ<g ref="char:EOLhyphen"/>ſeſs'd him with Integrity, and left him free in his Choice, had ſet Life or Death before him, Happineſs or Miſery equally proportionable; and when the fatal Tranſgreſſion had deter<g ref="char:EOLhyphen"/>min'd our Lot, God had been Eternally and Infinitely Good as well as Juſt, though he had paſs'd us by in our Sins unregarded and unaſ<g ref="char:EOLhyphen"/>ſiſted, and left us to the deſerv'd Iſſues of his Everlaſting Indignation. For his <hi>Juſtice</hi> can no more deſtroy his <hi>Goodneſs,</hi> than his Good<g ref="char:EOLhyphen"/>neſs can defeat or diſarm his Juſtice. What the Caſe may be as to a <hi>Political Neceſſity,</hi> ſeems at firſt ſight indeed of a ſomething diffe<g ref="char:EOLhyphen"/>rent conſideration; and vain preſumptuous Man naturally affecting independency in all
+<pb n="8" facs="tcp:65132:6"/>things, will be apt to flatter himſelf with Ar<g ref="char:EOLhyphen"/>guments drawn from the <hi>Nature of Government,</hi> that this <hi>Gift</hi> of God is not ſo free as we pre<g ref="char:EOLhyphen"/>tend; and that he being the ſupreme Magiſtrate and Governour of the World, was bound for that reaſon, not to give up the whole body of his Subjects to the ſeverity of His Laws, which demanded their final and univerſal Deſtruction: But that by the very <hi>Nature of his Office</hi> he was oblig'd to find ſome way of preſerving <hi>them</hi> with whom that Relation of Government might ſtill ſubſiſt and continue.</p>
+            <p>For the End of all Laws and Government being the Preſervation of the Society to be go<g ref="char:EOLhyphen"/>vern'd by 'em, though the ſafety of that may well be provided for in the Deſtruction of ſuch <hi>Private Men,</hi> as by their crimes intrench upon it: Yet in the Caſe of an univeral Defection of <hi>all his ſubjects,</hi> when the Lives of the <hi>Whole</hi> are forfeited to the Laws; it wou'd be con<g ref="char:EOLhyphen"/>trary to the End of thoſe Laws, for a <hi>Prince</hi> to take the forfeiture; and the reaſon and in<g ref="char:EOLhyphen"/>tereſt of Government, as well as his own Good Nature wou'd force him to a Pardon.</p>
+            <p>But the vanity of this imagination in Relati<g ref="char:EOLhyphen"/>on to God's Government, will manifeſtly ap<g ref="char:EOLhyphen"/>pear if we conſider the very great difference there is between <hi>Divine</hi> and <hi>Humane Laws;</hi> and
+<pb n="9" facs="tcp:65132:6"/>the vaſt diſproportion between the Nature of the <hi>Sovereignty of God,</hi> and that of the <hi>Mightieſt Princes</hi> upon Earth.</p>
+            <p>The <hi>Laws of Men</hi> 'tis true are made for the <hi>benefit of Society;</hi> and 'tis but juſt therefore that <hi>they</hi> ſhou'd give way to the good of it whenever they happen to come in competition. But the <hi>Laws of God</hi> were not made <hi>for the ſake of Men;</hi> on the contrary the whole Society of <hi>Men</hi> was made for <hi>thoſe Laws.</hi> The <hi>Glory of God</hi> was the End for which Man was made, and that Glory conſiſts in the obſervation of his Laws, which are founded on the eſſential and immutable Perfecti<g ref="char:EOLhyphen"/>ons of his Nature, and which juſtly and neceſſa<g ref="char:EOLhyphen"/>rily call for the Ruin of a Society that has broke 'em, when it was made on purpoſe for their ob<g ref="char:EOLhyphen"/>ſervation.</p>
+            <p>Beſides, there is a vaſt diſproportion between the <hi>Sovereignty of God</hi> and that of <hi>Earthly Princes and Magiſtrates.</hi>
+            </p>
+            <p>A King cannot deſtroy the whole Body of his Subjects however Criminal, but at the ſame time he muſt extinguiſh his own Sovereignty and Dominion, and be himſelf, by that means, reduc'd to a <hi>private</hi> Capacity.</p>
+            <p>But the Sovereignty of God depends not up<g ref="char:EOLhyphen"/>on Men, that it ſhou'd be extinguiſh'd, even with the whole race of 'em, <hi>Thouſands of An<g ref="char:EOLhyphen"/>gels
+<pb n="10" facs="tcp:65132:7"/>wou'd ſtill ſtand before him, and ten thouſand times ten thouſand miniſter unto him. The Heavens wou'd ſtill declare the Glory of God, and the Firma<g ref="char:EOLhyphen"/>ment ſhew his handy-work.</hi> Or if he ſhou'd de<g ref="char:EOLhyphen"/>ſtroy the whole Creation, it were ſtill in his Power to make a <hi>new one,</hi> and re-eſtabliſh that External Glory and Sovereignty which is nei<g ref="char:EOLhyphen"/>ther any way neceſſary to his Being, nor does add in the leaſt to the internal and eſſential ſplendour and Majeſty of a God that is infinite<g ref="char:EOLhyphen"/>ly happy, and ſelf-ſufficient.</p>
+            <p>It is plain therefore, that a God of infinite Holineſs and Juſtice (though it was free for him to make, or not make, ſuch a Creature as Man, capable of chooſing Good or Evil, yet as he was pleas'd to make him ſuch) cou'd not in conſequence of thoſe Attributes but eſtabliſh an inviolable Relation between that Good or Evil, and rewards or puniſhments, and that not any Natural Powers, not any Moral Perfections, or Political Capacity of his own, cou'd lay a<g ref="char:EOLhyphen"/>ny neceſſity upon him not to accompliſh that eſtabliſhment in the Deſtruction of the Miſera<g ref="char:EOLhyphen"/>ble Offenders.</p>
+            <p>But it was his good pleaſure to provide a Ranſom for us; and if it appear farther, That there was nothing in <hi>Man</hi> which cou'd <hi>deſerve</hi> it from him, there will every circumſtance be
+<pb n="11" facs="tcp:65132:7"/>found to concur, which is neceſſary to make a <hi>Gift</hi> intirely and abſolutely <hi>Free.</hi>
+            </p>
+            <p>And what was there in Man that cou'd de<g ref="char:EOLhyphen"/>ſerve any thing from his Maker? <hi>If we were righteous, what give we to him, or what receiveth he at our hands? Can a Man be profitable unto God, as his righteouſneſs may profit the Son of Man?</hi> There is too great a <hi>diſtance</hi> between God and his Creatures, too great a dependance and debt on the one ſide, to allow of any capacity of de<g ref="char:EOLhyphen"/>ſerving from the other. The very beſt uſe Man makes of the Gifts of God, cannot diſcharge the Debts with which thoſe very Gifts have loaded him: How then can he poſſibly bring any thing to the account of Merit, who is at beſt ſo far ſhort of a juſt Payment? But alas! This Argument turns upon a ſuppoſition by much too favourable! For he was ſo far from deſerving any <hi>Good</hi> from God, that his Merit was <hi>Hell,</hi> and his Deſert <hi>Damnation:</hi> He had ſold himſelf to Sin, and given himſelf up to Vanity; his ways were perverſe before the Lord; Paradiſe it ſelf cou'd not tempt him to be honeſt a little while, but he wou'd needs ſerve the Devil as ſoon as God had made him. This was the condition of loſt Man, when yet <hi>God ſo lov'd the World, that he gave his only be<g ref="char:EOLhyphen"/>gotten Son, to the end that whoſoever believeth in
+<pb n="12" facs="tcp:65132:8"/>him, ſhould not periſh, but have Everlaſting Life.</hi>
+            </p>
+            <p n="2">2. An <hi>End</hi> truly worthy of God! Worthy his Infinite and Almighty Beneficence! Men in Priſon are ſometimes unexpectedly ſet free; but often free only to ſtarve abroad in the open Air. Men ſunk in Debt have their bonds of<g ref="char:EOLhyphen"/>ten cancell'd by the Compaſſion of Government; but are many times only by that Means at li<g ref="char:EOLhyphen"/>berty to contract new ones, without any pro<g ref="char:EOLhyphen"/>bable condition of ſupport. But Man by this Gift was not only reſcu'd from <hi>periſhing Ever<g ref="char:EOLhyphen"/>laſtingly,</hi> but Eternal <hi>Glory and Happineſs</hi> was purchas'd for him. For the End God propos'd in giving his Son was not narrow and ſhort, ac<g ref="char:EOLhyphen"/>cording to the weak meaſures and imperfect Projects of humane Benefactors: It was not li<g ref="char:EOLhyphen"/>mited barely to the freeing us from <hi>Puniſhment,</hi> it extended to the enſtating us in <hi>Life Everlaſting;</hi> and however theſe two are commonly miſtaken or confounded, one for, or with another; yet they are <hi>diſtinct Effects,</hi> in different regards de<g ref="char:EOLhyphen"/>pending equally on the ſame <hi>Gift,</hi> and both to<g ref="char:EOLhyphen"/>gether making up the great <hi>End</hi> of it, the Sal<g ref="char:EOLhyphen"/>vation of our Souls.</p>
+            <p>The <hi>Pardon</hi> of our ſins, and deliverance from Death, was due to our Bleſſed Saviour's Infinite <hi>Satisfaction:</hi> But our claim to <hi>Eternal Life</hi> de<g ref="char:EOLhyphen"/>pends wholly on his <hi>Merit,</hi> as all thoſe Gifts
+<pb n="13" facs="tcp:65132:8"/>and Graces do, which conduce to our obtaining it. For to frame an exact Notion of the Eſſential Parts, of the Cauſes and Principles of our Sal<g ref="char:EOLhyphen"/>vation; the Sacrifice of Chriſt is to be conſider'd in two reſpects; either as a <hi>puniſhment</hi> inflicted by divine Juſtice on that Victim which was offer'd in our ſtead; or as a <hi>Voluntary Oblation</hi> which Chriſt made of himſelf to purchaſe for us an inheritance in the higheſt Heavens, by Vertue of that Covenant which he made with the Father as Mediator between God and Man, it is his <hi>ſatisfaction</hi> which reſpects the <hi>Guilt</hi> of our ſins, and the <hi>Divine Juſtice</hi> naturally and neceſſarily demanding their Puniſhment; and the conſequence of <hi>that</hi> can reach no farther than putting us in a ſtate of <hi>Impunity.</hi> But it is the <hi>Merit</hi> of our Bleſſed Saviour which reſpects our Natural want and incapacity of <hi>Eternal Hap<g ref="char:EOLhyphen"/>pineſs;</hi> and the Formal Effect of that is, not the Delivering us from <hi>Hell,</hi> which the <hi>ſatisfaction</hi> has perform'd already; but the acquiſition of <hi>Heaven</hi> for us, which is an End above and beyond what that <hi>ſatisfaction</hi> was determin'd to. Not that the Merit or Satisfaction in the Sacrifice of Chriſt can any way be ſeparated or divided from it (it cou'd not ſatisfy if it were not Meri<g ref="char:EOLhyphen"/>torious; it cou'd not Merit if it did not ſatisfy) but ſtill when we ſpeak properly and clearly
+<pb n="14" facs="tcp:65132:9"/>they are two diſtinct and different things, and produce diſtinct and different effects.</p>
+            <p>For though God having made Man at firſt Juſt and Innocent, and put him in Poſſeſſion of that <hi>Happineſs</hi> which he loſt by <hi>Sin,</hi> it may ſeem probable, that the <hi>Satisfaction</hi> made for that <hi>Sin</hi> ſhou'd of it ſelf re-inſtate him in that <hi>Hap<g ref="char:EOLhyphen"/>pineſs,</hi> and ſuperſede by that means all manner of neceſſity of any <hi>farther purchace</hi> to be made for him. Yet if we conſider well the nature of the <hi>Happineſs</hi> which the <hi>Goſpel</hi> directs us to aim at and expect; it will be found to be ſuch as Man cou'd lay no claim to from any <hi>natural right,</hi> and therefore ſuch as cou'd not any way be due to him upon and from his reſtitution to his <hi>natural State.</hi>
+            </p>
+            <p>For his <hi>natural State</hi> conſiſted in the enjoy<g ref="char:EOLhyphen"/>ment of an <hi>Earthly Paradiſe,</hi> and depended, as to its <hi>duration,</hi> on his continuance in <hi>Innocence.</hi> But the Life Eternal of the Goſpel is a <hi>ſuperna<g ref="char:EOLhyphen"/>tural Gift,</hi> not an <hi>animal felicity</hi> in its own Na<g ref="char:EOLhyphen"/>ture capable of change, however conditionally laſting. 'Tis a happineſs which will make us like the Angels of God, in a ſtate unchange<g ref="char:EOLhyphen"/>able and indefeaſible, giving Immortality to our Bodies, and impeccability to our Souls; and requiring therefore a <hi>new right</hi> (beyond the ſimple pardoning of our Sins, on account
+<pb n="15" facs="tcp:65132:9"/>of the ranſom paid for us, beyond the reſtoring us to the State from which we were fallen) which might acquire to us an Everlaſting Inhe<g ref="char:EOLhyphen"/>ritance in the Kingdom of God, by the infinite Merits of the voluntary oblation which our Bleſſed Saviour made of himſelf, unconſtrain'd by any Power, unoblig'd by any Law, un<g ref="char:EOLhyphen"/>engag'd by any Merit of ours that cou'd de<g ref="char:EOLhyphen"/>ſerve it.</p>
+            <p n="3">3. Which leads us to the conſideration of the <hi>Principle,</hi> upon which God was pleas'd to be<g ref="char:EOLhyphen"/>ſtow this Gift, his Infinite and unbounded <hi>Love</hi> and Compaſſion.</p>
+            <p>
+               <hi>Infinite</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nbounded</hi> indeed had that <hi>Good<g ref="char:EOLhyphen"/>neſs</hi> need to be, which cou'd extend it ſelf to the World in that condition which it was ſunk in<g ref="char:EOLhyphen"/>to! For <hi>Sin</hi> is a State of <hi>Rebellion</hi> and <hi>Defiance</hi> againſt God; and he that has once put off and renounc'd his Allegiance, cannot rationally ex<g ref="char:EOLhyphen"/>pect or hope for the benefits of that Government which he refuſes to ſubmit to, how mild and compaſſionate ſoever the nature of the Power may be, or however good and beneficent the So<g ref="char:EOLhyphen"/>vereign Adminiſtration of it. A Love only without limits cou'd purſue us ſo far as effectu<g ref="char:EOLhyphen"/>ally to overtake us, when we were ſet at a wider diſtance from him by our <hi>Sins,</hi> than we were by our <hi>Nature;</hi> when all the Characters
+<pb n="16" facs="tcp:65132:10" rendition="simple:additions"/>of his Perfections in us were blotted, or eras'd; all the Faculties of our Souls diſorder'd and re<g ref="char:EOLhyphen"/>vers'd; and the whole Body of Sin reign'd in triumph over us.</p>
+            <p>But though his Almighty Love reach'd us in this <hi>State of Sin</hi> and <hi>Wickedneſs,</hi> it was not un<g ref="char:EOLhyphen"/>der <hi>this conſideration</hi> that it did ſo. Such an imagination wou'd be abuſive and unworthy of God; inconſiſtent with his Infinite <hi>Holineſs and Purity,</hi> and irreconcileable to his <hi>Juſtice,</hi> which demanded their Vindication. It was the <hi>Miſery</hi> of Man alone which mov'd the <hi>Divine Compaſſion;</hi> a Miſery too great for any Natural Powers to redeem him from, too intenſe for a<g ref="char:EOLhyphen"/>ny Creatures Pity to abate or relieve. For <hi>no Man can by any means redeem his Brother, nor give to God a ranſom for him: for it coſt more to redeem their Souls; ſo that they muſt let that alone for ever.</hi> And <hi>Miſery</hi> indeed is the proper object of <hi>Pity,</hi> and <hi>helpleſs</hi> Miſery of a <hi>Divine Beneficence,</hi> a Miſery <hi>hopeleſly</hi> ſuch of an <hi>Almighty</hi> one! On <hi>this account,</hi> notwithſtanding we were dead in our treſpaſſes, and on that ſcore the wretched Objects of Divine Juſtice; it was not inconſi<g ref="char:EOLhyphen"/>ſtent with the inviolable Majeſty of God's Laws, and his immutable Decree of puniſhing Sin, that God ſhou'd have inclinations of rendring himſelf <hi>placable</hi> to Mankind; that he ſhou'd be
+<pb n="17" facs="tcp:65132:10"/>mov'd with compaſſion to ſuch a degree as to procure us the means of <hi>Reconciliation;</hi> ſince even thoſe means, by the ſatisfaction given, ſerv'd but yet more to raiſe the Glory and Ho<g ref="char:EOLhyphen"/>nour of his Government, as well as to purchaſe for us Everlaſting Happineſs and Communion with him, by the moſt exalted flight of ineſti<g ref="char:EOLhyphen"/>mable Love. A Love worthy our warmeſt attention to all the endearing circumſtances of it! worthy our utmoſt acknowledgments and gratitude for ſo infinite an Obligation!</p>
+            <p>To <hi>make us out of nothing</hi> was an Act of kind<g ref="char:EOLhyphen"/>neſs, to which God had on him no antecedent Obligation; but to redeem us from what was worſe than nothing, out of <hi>Eternal Slavery to Sin and Death;</hi> how wonderfully does it in<g ref="char:EOLhyphen"/>creaſe and indear the Benefaction!</p>
+            <p>
+               <hi>Life</hi> it ſelf was a favour which we had no title to; it cou'd not be our due, when we had not a being to claim it in, we cou'd not expect it when we were not ſo much as even in ex<g ref="char:EOLhyphen"/>pectation. How enlarg'd then and unexhauſted is that bounty which gives us <hi>Life Eternal</hi> in <hi>Hap<g ref="char:EOLhyphen"/>pineſs Everlaſting!</hi>
+            </p>
+            <p>The Infinite <hi>Majeſty</hi> of God, and our own <hi>
+                  <g ref="char:V">Ʋ</g>nworthineſs,</hi> had ſet him at a diſtance from us wholly inſurmountable; his <hi>brightneſs</hi> forbad all approach, and his <hi>anger</hi> all hopes of acceſs:
+<pb n="18" facs="tcp:65132:11"/>yet he gave his Son, his only begotten, to take upon him our Nature, that he might draw it into an intimate, an endleſs and inſeparable Union with his own.</p>
+            <p>He gave the Son of his Love for <hi>Rebels and Enemies;</hi> from the Throne of his Glory, above the Heavens, to be born among Beaſts, and to die among Thieves: He gave him for <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> when he paſs'd by the fall'n Angels: Thoſe once Bleſſed Spirits that fill'd his Preſence, and left 'em baniſht for ever from the Joys of it, bound up in Chains of Everlaſting Darkneſs. <hi>For verily he took not on him the Nature of Angels, but he took on him the ſeed of</hi> Abraham, Heb. 2.16. <hi>That in him all the Nations of the earth might be bleſſed.</hi>
+            </p>
+            <p>So univerſal and unconfin'd was the good<g ref="char:EOLhyphen"/>neſs of God, as unlimited in the reach of it, as intenſe in degree! It was not reſtrain'd to one <hi>Family</hi> or <hi>People;</hi> within the private Encloſure of the Houſe of <hi>Judah,</hi> or the narrow bounds of the Land of <hi>Canaan:</hi> It ſpread it ſelf wide among the Nations, <hi>The Inhabitants of the Iſles may be glad thereof.</hi> It took in all <hi>Kindred, Tongues and People;</hi> it extended to the <hi>uttermoſt parts of the Earth.</hi> For God is no narrow ſelfiſh Being, with partial regards and contracted Bounty; no Arbitrary Diſpenſer of a groundleſs Choice, but an abſolutely Free and general Benefactor.
+<pb n="19" facs="tcp:65132:11"/>The World which <hi>God ſo lov'd</hi> comprehends <hi>all Mankind,</hi> and the value of the ranſom he gave for it is ſufficient to ſatisfy for as many Worlds as the wantoneſt Philoſopher can imagine, or the gayeſt Conquerour can wiſh for. <hi>He wou'd that all Men ſhou'd be ſav'd and come to the knowledge of the truth:</hi> 'Tis <hi>Infidelity</hi> alone which fruſtrates and makes uſeleſs to us all the graci<g ref="char:EOLhyphen"/>ous offers of Infinite Compaſſion. <hi>For God ſo lov'd the world that he gave his only begotten Son, that</hi> whoſoever believeth in him, <hi>ſhou'd not periſh, but have Everlaſting Life.</hi>
+            </p>
+            <p n="4">4. Which brings me to the <hi>condition</hi> appointed for making this Gift of any uſe or advantage to us, even <hi>Our faith in Chriſt;</hi> without which it is impoſſible for us to attain to that Salvation which he came to purchaſe.</p>
+            <p>For we muſt not dream of a Covenant with<g ref="char:EOLhyphen"/>out a condition, or expect the benefit of the one without performing the other. God did not <hi>ſo love the world</hi> as to ſend his Son to carry Men to Heaven againſt their wills: But he ſent him to make Men capable of going thither, and to en<g ref="char:EOLhyphen"/>able 'em to perform what he requires of 'em in order to it. And he requires nothing but what was fit for him to propoſe, nothing but what is neceſſary for us to perform. Shou'd God have propos'd <hi>ſevere</hi> and <hi>arbitrary Terms</hi> to
+<pb n="20" facs="tcp:65132:12"/>us, in order to our Deliverance from the Miſery we were fallen into, we muſt have had very ſhallow apprehenſions of that Miſery, to have been capable of thinking any poſſible means of eſcaping it inſupportable; but when the condi<g ref="char:EOLhyphen"/>tion he enjoins is ſuitable to <hi>his Nature and to ours;</hi> agreeable to his Divine Perfections, and in its own Nature neceſſary to our Happineſs, we have reaſon, with Joy, to accept the gracious offer, and with a grateful alacrity to perform the Condition.</p>
+            <p>Now it is very ſuitable to God's Nature, that he ſhould make our <hi>Faith</hi> in his Son this <hi>Condi<g ref="char:EOLhyphen"/>tion;</hi> for it is an acknowledgment of many of his Divine Perfections, and a homage naturally due to 'em, when they are once diſcover'd to our Minds. Men may attempt to <hi>perſwade</hi> our Belief, but God alone has a right to <hi>command it.</hi> He has an abſolute Authority over our Souls and all their Faculties, over our Thoughts and Underſtandings, <hi>to pull down ſtrong holds, and caſt down imaginations, and every high thing that exalteth it ſelf againſt the knowledge of God, and to bring into captivity every thought into the obedience of Chriſt.</hi> So that we are to believe what he teaches us of himſelf, and what he promiſes to us, with<g ref="char:EOLhyphen"/>out demanding <hi>other proofs or farther reaſons:</hi> our judgments are no longer at our own com<g ref="char:EOLhyphen"/>mand,
+<pb n="21" facs="tcp:65132:12"/>we have no right to examine and can<g ref="char:EOLhyphen"/>vaſs the <hi>natural grounds</hi> or <hi>modes</hi> of thoſe <hi>Myste<g ref="char:EOLhyphen"/>ries</hi> he requires us to believe; but our Minds are led Captive, and given abſolutely up to the Power and Force of his <hi>Authority</hi> alone.</p>
+            <p>It is an acknowledgment of his <hi>Goodneſs</hi> which aſſures us he will withhold nothing from us that he in his Wiſdom ſees neceſſary, or even <hi>fit</hi> for our <hi>knowledge;</hi> and an acknowledg<g ref="char:EOLhyphen"/>ment of his <hi>Infallibility,</hi> as well as of his <hi>Truth;</hi> that he is as uncapable of deceiving us, as of de<g ref="char:EOLhyphen"/>ſigning to do ſo.</p>
+            <p>Thus our Faith gives to our Bleſſed Saviour the due Honour of theſe Perfections in the God<g ref="char:EOLhyphen"/>head; <hi>and whatever action of ours contributes moſt to the ſetting out the Glory of the Divine Attributes, it is moſt ſuitable to the Divine Nature to require it of us.</hi>
+            </p>
+            <p>But it is not only agreeable to the <hi>Nature of God;</hi> it is farther in its own Nature, that is, by the <hi>natural tendency of the act it ſelf,</hi> abſolutely neceſſary to our Happineſs.</p>
+            <p>For it is a miſtake to think this an <hi>Arbitrary</hi> condition, or means of applying to us the Fruit of this Gift, which God might indifferently have choſen, or left for any other; and that it is only <hi>neceſſary,</hi> becauſe God was pleas'd to make it ſo. It was <hi>neceſſary</hi> to the <hi>very nature of the
+<pb n="22" facs="tcp:65132:13"/>tranſaction,</hi> by which our Saviour was to be<g ref="char:EOLhyphen"/>come our <hi>Pledge</hi> and our <hi>Ranſom,</hi> and to repre<g ref="char:EOLhyphen"/>ſent our Perſons in ſatisfying for our Sins. For our Saviour taking upon him the Office of a <hi>Mediator,</hi> between God and Man, to make up the great difference between our Maker and his Creatures, by bearing the puniſhment of our Sins, in his own Perſon. It was not only ne<g ref="char:EOLhyphen"/>ceſſary, that he ſhou'd be authoriz'd on <hi>God's part,</hi> whoſe conſent was requir'd to the Tran<g ref="char:EOLhyphen"/>ſlation of the Puniſhment from our Perſons to his; but that <hi>we alſo,</hi> on <hi>our part,</hi> by our Faith, ſhou'd accept him as our Mediator; that by that conſent of ours to his acting for us we might have ſome Title to the Divine Mercy and Fa<g ref="char:EOLhyphen"/>vour from the ſatisfaction and Merit of that Mediation with the Father. It is a vain Me<g ref="char:EOLhyphen"/>diation between Two, where the conſent of one Party is wanting, and there is no poſſible way of expreſſing ours, but by reſigning our Faith, our Truſt and Confidence, by giving our ſelves up intirely to the Direction and Obedi<g ref="char:EOLhyphen"/>ence of the Son of God, who had the goodneſs for our ſakes, to ſubmit himſelf to that Office and Employment.</p>
+            <p>And what has he not done to eſtabliſh that Faith? And what has he left unattempted to engage our affections? If <hi>Objects of ſenſe</hi> alone
+<pb n="23" facs="tcp:65132:13"/>can gain our <hi>attention,</hi> he made himſelf ſo to the World in the <hi>Veil</hi> of his <hi>Fleſh.</hi> If <hi>ſigns from Hea<g ref="char:EOLhyphen"/>ven</hi> and aſtoniſhing <hi>Miracles</hi> can aſſert the Divi<g ref="char:EOLhyphen"/>nity of his Perſon and of his Doctrine, his Life was full of ſuch arguments and aſſurances; and his <hi>reſurrection from the Dead</hi> was an evidence as undeniable in the Fact, as convincing in the Proof.</p>
+            <p>If <hi>dark and obſcure Myſteries</hi> ſeem to ſhock this <hi>Faith,</hi> the Evidence of their Truth is founded upon <hi>Facts</hi> as unconteſtable as the commands for receiving 'em are poſitive and expreſs.</p>
+            <p>If <hi>Reaſon</hi> or <hi>Intereſt</hi> can incline our Belief, it is by its own proper <hi>tendency</hi> and by the Law of the <hi>New Covenant,</hi> a neceſſary Condition of our Happineſs.</p>
+            <p>And when our Faith in Chriſt is thus enli<g ref="char:EOLhyphen"/>ven'd and actuated; when it is enforc'd with ſuch Tyes, and ſupported with ſuch Evidence; we muſt be utterly loſt to all that is tender or ſen<g ref="char:EOLhyphen"/>ſible, to all that is honeſt or gratefull in hu<g ref="char:EOLhyphen"/>man Nature, if we are able to reſiſt ſuch amaz<g ref="char:EOLhyphen"/>ing inſtances of the Love of God and of our Bleſſed Saviour, as have flame enough in 'em to raiſe and to tranſport the moſt degenerate and obdurate Natures.</p>
+            <p>At the returns of a generous Deliverer from our <hi>Temporal Enemies,</hi> an univerſal Joy and ac<g ref="char:EOLhyphen"/>knowledgement
+<pb n="24" facs="tcp:65132:14"/>juſtly ſpreads it ſelf through his People: it breaks through the wiſe Mans firmeſt compos'dneſs, for a Joy that is ſenſible will be ſeen; it tranſports the full Crouds into loud Acclamations, for acknowledgments that are real will be heard; even the rumours of freſh Enemies diſturb not their chearfulneſs; ſo full are they of his Preſence, and ſecure in his Conduct.</p>
+            <p>What bounds then can confine the exceſs of our tranſports at the coming of this Conquerour of our <hi>ſpiritual Adverſaries!</hi> At the coming of a Conquerour aſſur'd of his Victory <hi>over Principa<g ref="char:EOLhyphen"/>lities, over Powers, over the Rulers of the darkneſs of this World, over ſpiritual Wickedneſſes in high Places.</hi> The very Angels themſelves will join in the tuneful conſort, and break out in<g ref="char:EOLhyphen"/>to Heavenly Songs and Hallelujahs. <hi>Glory be to God on High, on Earth Peace, Good will towards Men! For God ſo lov'd the World that he gave his Only begotten Son, that whoſoever believeth in him, ſhou'd not periſh, but have Everlaſting Life.</hi> To Him, with the Father, and the Holy Spirit, Three Perſons and one God, be all Glory, Ho<g ref="char:EOLhyphen"/>nour, Power, Might, Majeſty and Dominion, from this time forth for evermore! <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
